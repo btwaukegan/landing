@@ -1,0 +1,32 @@
+body {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Verdana, Geneva, sans-serif;
+    text-align: center;
+  }
+
+  a {
+    color: #CC0000;
+  }
+
+  a:visited {
+    color: #F8CF16;
+  }
+
+  a:hover {
+    color: #55CC4C;
+  }
+
+  #container {
+    margin: 0 auto;
+    text-align: center;
+  }
+  img.c1 {
+    border: 0
+  }
+iframe[seamless]{
+    background-color: transparent;
+    border: 0px none transparent;
+    padding: 0px;
+    overflow: hidden;
+}

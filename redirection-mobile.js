@@ -1,4 +1,3 @@
-IconIcon
 /*
 * JS Redirection Mobile
 *
